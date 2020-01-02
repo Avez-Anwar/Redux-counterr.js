@@ -3,6 +3,7 @@
 import React, { Component } from 'react';
 
 import CounterControl from '../../components/CounterControl/CounterControl';
+
 import CounterOutput from '../../components/CounterOutput/CounterOutput';
 
 class Counter extends Component {
